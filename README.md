@@ -12,7 +12,7 @@ Office Hours:
 
 Resources:
 
-The following links are meant to be resources that can be used outside of the classroom, as well as instruments if you want to go deeper on the topics covered in class. The first link is for beginner to intermediate Python coders. To access the rest of the books you will have to sign up to acm.org for a yearly membership which only costs $20 per year for students. Once you sign-up to acm.org, click `Learning Center` then click `E-Learning` and on the upper tab click `O’Reilly`. O’Reilly has anything and everything computer savys might need.
+The following links are meant to be resources that can be used outside of the classroom, as well as instruments if you want to go deeper on the topics covered in class. The first link is for beginner to intermediate Python coders. There are two options to access the rest of the books. The first option is throu your campus wi-fi you get auto log into acm.org and will have access to all ACM features. The second option is to sign up to acm.org for a yearly membership which only costs $20 per year for students. Once you sign-up to acm.org, click `Learning Center` then click `E-Learning` and on the upper tab click `O’Reilly`. O’Reilly has anything and everything computer savys might need.
 
 * Python, [http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 
