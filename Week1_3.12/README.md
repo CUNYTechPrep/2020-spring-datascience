@@ -13,6 +13,11 @@ Listings.csv contains the data needed for these exercises.
 
 Week1_Answers.ipynb contains the answers for the lab portion of the class.
 
+Week1_SQL_lesson_exercises.ipynb is divided in two parts: the first part is a 
+lesson of how to work with SQL database from Python interface. The second 
+part contains practice exercises of the material covered. 
+
+
 Some helpful resources:
 * Pandas cheat sheet:
     * http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
