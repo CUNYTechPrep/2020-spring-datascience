@@ -14,6 +14,9 @@ Listings.csv contains the data needed for these exercises.
 Week1_Answers.ipynb contains the answers for the lab portion of the class.
 
 Some helpful resources:
-* Pandas cheat sheet (link needed)
+* Pandas cheat sheet:
+    * http://datacamp-community-prod.s3.amazonaws.com/dbed353d-2757-4617-8206-8767ab379ab3
+    * https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8
+    * https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef
 * A good resource on encoding: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 * How to convert strings to datetime: https://www.journaldev.com/23365/python-string-to-datetime-strptime
